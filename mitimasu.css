@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "mitimasu";
+  src: url("./fonts/mitimasu.eot");
+  src: url("./fonts/mitimasu.eot?#iefix") format("embedded-opentype"),
+       url("./fonts/mitimasu.woff") format("woff"), 
+       url("./fonts/mitimasu.woff2") format("woff2"),
+       url("./fonts/mitimasu.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
